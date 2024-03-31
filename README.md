@@ -80,9 +80,10 @@ systemctl enable httpd
 
 # Start the Apache HTTP Server to serve web content
 systemctl start httpd
+```
 
-## Repository Link
-   The project is available on Github: [**_Host a static website on AWS_**](https://github.com/dsenazah/Host-a-static-website-on-aws.git)
+## GitHub Repository:
+The project is available on GitHub: [**_Host a static website on AWS_**](https://github.com/dsenazah/Host-a-static-website-on-aws.git)
 
-## Conclusion
-   This setup ensures a scalable,secure, and fault-tolerant environment for hosting a static web application application, leveraging AW's robust infrastructure.
+## Conclusion:
+This project demonstrates the implementation of a robust infrastructure on AWS for hosting a static website. By leveraging various AWS services such as VPC, EC2, ALB, and Route 53, the deployment ensures high availability, security, and scalability of the web application. The provided deployment script simplifies the setup process, enabling easy replication of the environment. Feel free to explore the GitHub repository for further details and contributions.
